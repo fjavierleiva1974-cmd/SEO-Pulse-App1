@@ -1,11 +1,18 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# SEO Pulse - AI Intelligence Tool
 
-  <h1>Built with AI Studio</h2>
+Herramienta profesional de análisis SEO inspirada en Semrush, potenciada por **Google Gemini 3 Flash**.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Despliegue en Vercel
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. **Sube este código a GitHub.**
+2. **Conecta con Vercel:** Importa el repositorio desde el panel de Vercel.
+3. **Variables de Entorno:** Es CRÍTICO añadir una variable llamada `API_KEY` con tu clave de Google AI Studio.
+4. **Build Settings:** Vercel detectará automáticamente que es un proyecto de Vite.
 
-</div>
+## 🛠 Tecnologías
+- **React 19**
+- **Tailwind CSS** (Diseño)
+- **Lucide React** (Iconos)
+- **Recharts** (Gráficas)
+- **Google Gemini API** (Análisis de datos)
